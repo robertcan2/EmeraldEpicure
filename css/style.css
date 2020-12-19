@@ -1,0 +1,322 @@
+body {
+	font-size: 13px;
+}
+.main-contatiner {
+	
+}
+.logo-and-nav-grid {
+}
+#EElogo {
+}
+#EElogo {
+}
+#banner {
+	width: 100%;
+	margin-bottom: 15px;
+}
+#salad {
+}
+#urns {
+}
+#field {
+}
+p {
+
+}
+#basic-images {
+	margin-top: 0px;
+	margin-right: -25px;
+	margin-left: -25px;
+	margin-bottom: 20px;
+
+
+}
+#MoreInfo {
+	margin-top: 0px;
+	margin-right: -25px;
+	margin-left: -25px;
+	margin-bottom: 20px;
+
+}
+
+#basic-images .col-lg-4 p {
+	/*color: #536C1F;*/
+	/*font-size: 1.3em;*/
+	text-align: left;
+}
+
+#defaultNavbar1 .nav.navbar-nav .active {
+	background-color: #C19437;
+	color: #FFFFFF;
+}
+
+.nav.navbar-nav .active a {
+	background-color: #B57031;
+	color: #FFFFFF;
+}
+.nav.navbar-nav li a {
+	color: #F7F7F7;
+
+}
+
+
+
+.navbar.navbar-default .container-fluid #defaultNavbar1 {
+	background-color: #6A8225;
+	color: #FFFFFF;
+}
+.row.logo-and-nav-grid .col-lg-7 .navbar.navbar-default {
+}
+.darkgrey {
+	background-color: #4D4A2F;
+}
+.row .col-lg-4 #tuscan_farm {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+
+.pad10{
+	padding:10px;
+	}
+
+.padleft25{
+		padding-left:25px;
+		padding-right:10px;
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+.green
+{
+	background:#7bc140;
+	
+}	
+	
+	
+.whitetxt
+	{
+		color:#FFF;
+		font-size:15px;
+		font-family:accid,Arial;
+		
+	}
+
+/*.whitetxt
+	{
+		color:#FFF;
+		font-size:12px;
+		font-family:Arial;
+		
+	}*/	
+.brown
+{
+	background-color: #A79157;
+}
+
+#tuscan_farm {
+}
+#Signup {
+
+}
+.container.main-contatiner #form-row {
+
+}
+
+
+
+.col-lg-8 #Signup fieldset {
+	border: thick solid #A33B3D;
+	background-color: #C01417;
+}
+#Signup {
+
+}
+.blacktext {
+	color: #030303;
+}
+/*#Footer {
+	margin-top: 40px;
+}
+#Footer-grid {
+}
+.container.main-contatiner #Footer #Footer-grid {
+	margin-top: 15px;
+}*/
+#space {
+	height: 15px;
+}
+
+
+#submit {
+	opacity:100;
+}
+#Signup p #select {
+	color: #36281D;
+}
+#Signup p #firstname {
+	color: #36281D;
+}
+input {
+	color: #36281D;
+}
+label {
+	color: #FFFFFF;
+}
+select {
+	color: #36281D;
+}
+.olivelight {
+}
+.tan {
+	background-color: #979857;
+}
+
+
+.brown2
+{
+	background:#36281d;
+}
+.drkgreen
+{
+	background:#4C4C19;
+}
+.pad10{
+	padding:10px;
+	}
+.pattern{
+		margin:0px;
+		padding:10px;
+		color:#FFF;
+}
+
+
+#Article1 #Article2 {
+	
+	margin-right:10px;
+}
+
+/*#Article1 p, #Article2 p, #Article3 p, #Uses, #Article4
+{
+	font-family:Arial, sans-serif;
+	font-size:17px;
+	
+	
+}*/
+.darkgreen
+{
+	background:#199054;
+}
+.orange
+{
+	background:#B45F04;
+}
+.orange ul
+{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+.orange li
+{
+	list-style:disc;
+	margin:0px 0px 0px 20px;
+	padding:0px 0px 0px 0px;
+	color:#FFF;
+		font-size:15px;
+		font-family:Arial;
+}
+
+.pad5
+{
+	padding:5px 15px;
+}
+
+#Footer
+{
+	background: #333;
+	color: #FFF;
+	margin-top: 10px;
+	margin-right: -25px;
+	margin-left: -25px;
+	margin-bottom: 20px;
+	font-size: 14px;
+	
+}
+/* ******************* prep for CSS Transitions ************************/
+
+.animation1{
+	background-color: rgba(123, 193, 64, 0.9);
+	top: 30px;
+	bottom: 0;
+	color: #FFFFFF;
+	width: 97%;
+	height:100%;
+	opacity: 0;
+	position: absolute;
+	-webkit-transition: all 0.75s ease 0s;
+	-o-transition: all 0.75s ease 0s;
+	transition: all 0.75s ease 0s;
+}
+
+ .animation2
+{
+	background-color: rgba(54, 40, 29, 0.8);
+	top: 30px;
+	bottom: 0;
+	color: #FFFFFF;
+	width: 97%;
+	height: 100%;
+	opacity: 0;
+	position: absolute;
+	-webkit-transition: all 0.75s ease 0s;
+	-o-transition: all 0.75s ease 0s;
+	transition: all 0.75s ease 0s;
+	
+  }
+.animation3{
+	background-color: rgba(76, 76, 25, 0.8);
+	top: 30px;
+	bottom: 0;
+	color: #FFFFFF;
+	width: 97%;
+	height:100%;
+	opacity: 0;
+	position: absolute;
+	-webkit-transition: all 0.75s ease 0s;
+	-o-transition: all 0.75s ease 0s;
+	transition: all 0.75s ease 0s;
+
+}
+
+#Article1, #Article2, #Article3 {
+	max-height: 240px;
+	display: block;
+	overflow-x: hidden;
+	position: relative;
+	overflow-y: hidden;
+	padding-bottom:10px;
+}
+.animation1:hover {
+	-webkit-opacity: 1;
+	opacity: 1;
+}
+.animation2:hover {
+	-webkit-opacity: 1;
+	opacity: 1;
+}
+.animation3:hover {
+	-webkit-opacity: 1;
+	opacity: 1;
+}
+#EEAudio {
+	width: 100%;
+
+}
+#mysalad {
+}
+#myurns {
+}
+.newstyle3 {
+}
+.morestyle {
+}
